@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi I'm Jia Li ✨
 
+## About me
+- 🎓 Second year PhD student @utd
+- 🔬 Research interests: Computer Vision and Machine Learning
+- 📫 How to reach me: Jia.Li@utdallas.edu
+- 🌐 My homepage: https://jiali-home.github.io/
+  
 <!--
 **jiali-home/jiali-home** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
